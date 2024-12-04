@@ -45,7 +45,8 @@ graph TD
 ```
 
 ## Dokumentasi
-![WhatsApp Video 2024-12-04 at 08 42 56](https://github.com/user-attachments/assets/1d95cc20-b04d-4c64-b26a-57e5f3c38b2e)
+![WhatsApp Video 2024-12-04 at 08 42 56 (1)](https://github.com/user-attachments/assets/1f6a80b5-ae69-4beb-a1af-c7e46c9f430b)
+
 
 ## Hasil Perilaku LED
 ### 1. **FlashGreenLedTask**
