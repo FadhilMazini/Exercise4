@@ -31,11 +31,11 @@ Tugas `FlashGreenLedTask` dan `FlashRedLedTask` dirancang untuk menyalakan/memat
 - Selama preemption, LED Hijau akan tetap dalam status terakhirnya (menyala atau mati) hingga eksekusi dilanjutkan.
 
 ## Hubungan Antar Tugas
-
 - FlashRedLedTask memiliki prioritas lebih tinggi, sehingga dapat mempreempt FlashGreenLedTask.
 - Pola nyala/mati LED menunjukkan preemption dan penjadwalan tugas.
 
 ## Diagram Alur Kerja
+![Screenshot 2024-12-04 152508](https://github.com/user-attachments/assets/b651bec1-30cb-4885-abd7-1d08d8a6a235)
 
 ```mermaid
 graph TD
@@ -43,6 +43,11 @@ graph TD
     B -->|Suspend| A
     A -->|Selesai Eksekusi| C[Idle State]
 ```
+
+## Dokumentasi
+https://github.com/user-attachments/assets/407a2a6a-e60c-49a6-81b2-237e31f9f22f
+
+
 
 ## Hasil Perilaku LED
 
