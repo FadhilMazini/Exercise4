@@ -45,12 +45,9 @@ graph TD
 ```
 
 ## Dokumentasi
-https://github.com/user-attachments/assets/407a2a6a-e60c-49a6-81b2-237e31f9f22f
-
-
+![WhatsApp Video 2024-12-04 at 08 42 56](https://github.com/user-attachments/assets/1d95cc20-b04d-4c64-b26a-57e5f3c38b2e)
 
 ## Hasil Perilaku LED
-
 ### 1. **FlashGreenLedTask**
    - LED Biru menyala saat tugas aktif.
    - LED Hijau berkedip selama 4 detik saat tugas berjalan.
